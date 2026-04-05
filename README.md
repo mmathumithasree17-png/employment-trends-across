@@ -1,6 +1,6 @@
 # employment-trends-across-indian-states
 Title: Employment Trends Analysis Across Indian States
-Submitted by: Lalith Khala.P ,Mathumitha sree.M [CSE-B]
+Submitted by: Mathumitha sree.M [CSE-B],Lalith Khala.P
 Institution: SRM TRP ENGINEERING COLLEGE Date: October 2025
 
 1.Introduction 
